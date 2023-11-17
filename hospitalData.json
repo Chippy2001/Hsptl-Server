@@ -1,0 +1,43 @@
+[
+  {
+    "name": "MEDITREENA HOSPITAL",
+    "patientCount": 181908,
+    "location": "KOLLAM"
+  },
+  {
+    "name": "LAKESHORE",
+    "patientCount": 134523,
+    "location": "ERANAKULAM"
+  },
+  {
+    "name": "ASTER MIMS",
+    "patientCount": 221326,
+    "location": "KANNUR"
+  },
+  {
+    "name": "ANANTHAPURI",
+    "patientCount": 556450,
+    "location": "THAMPANOOR"
+  },
+  {
+    "name": "GOKULAM",
+    "patientCount": 12620,
+    "location": "TVM"
+  },
+  {
+    "name": "KIMS",
+    "patientCount": 10950,
+    "location": "KUMARAPURAM"
+  },
+  {
+    "name": "KIMS",
+    "patientCount": 10040,
+    "location": "KUMARAPURAM"
+  },
+  {
+    "name": "KIMS",
+    "patientCount": 13050,
+    "location": "KUMARAPURAM"
+  }
+
+]
